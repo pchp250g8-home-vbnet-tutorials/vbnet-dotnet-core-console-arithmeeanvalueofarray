@@ -9,4 +9,4 @@ The program does the following:
 4. Calculates the sum of the received elements.
 5. Divides the result by the number of elements in the array.
 
-ArithmMeanValueOfArray. Занятия по VB.Net. Платформа DotNet FrameWork Platform. Простой Ввод/Вывод. Массивы. Алгоритмы. Консольное приложение.
+ArithmMeanValueOfArray. Занятия по VB.Net. Платформа DotNet Core. Простой Ввод/Вывод. Массивы. Алгоритмы. Консольное приложение.
